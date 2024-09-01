@@ -9,8 +9,8 @@
  ## - Tablas:
       - Tabla CantidadVentasPorVendedor, creada a través de un LEFT JOIN. 
       Para obtener los datos de los empleados y la cantidad de pedidos que se generaron por cada uno.                                                
-      - Tabla local temporal (#Location_temporal), se crea para conocer los vendedores
-      que tienen una venta menor al promedio. Se utiliza una subconsulta para sacar el promedio de ventas por vendedor.
+      - Tabla local temporal (#Location_temporal), se crea para conocer los vendedores que tienen 
+      una venta menor al promedio. Se utiliza una subconsulta para sacar el promedio de ventas por vendedor.
 
       
       
