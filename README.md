@@ -8,4 +8,6 @@ Se utiliza la siguiente BD de ventas para la poner en práctica los conocimiento
       Total contable que se posee según dos rangos de precio determinados por el promedio.
  <h3>- Tablas:</h3>
       Tabla CantidadVentasPorVendedor, creada a través de un LEFT JOIN. Para obtener los datos de los empleados y la cantidad de pedidos que se generaron por cada uno.
+
+      
       
