@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Base de Datos Neptuno", "Base de Datos Neptuno\Base de Datos Neptuno.dtproj", "{23A0E200-5CAC-455A-ADF9-C5CC8E01BDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A0E200-5CAC-455A-ADF9-C5CC8E01BDE8}.Development|Default.ActiveCfg = Development
+		{23A0E200-5CAC-455A-ADF9-C5CC8E01BDE8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E78BB9-6095-4A1C-8857-008FB6398523}
+	EndGlobalSection
+EndGlobal
